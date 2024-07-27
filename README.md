@@ -102,7 +102,7 @@ or
    uuidgen
    ```
 
-- Place that guid inside the `Guid.Parse("")` quotes to define your plugin's ID.
+- Place that guid inside the `Guid.Parse("")` quotes to define your plugin's ID in `Plugin.cs` file.
 
 ## 4. Adding Functionality
 
